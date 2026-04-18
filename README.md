@@ -1,4 +1,4 @@
-# 🤖💥 AI Bugada – Simulador de Falhas Inteligentes
+# 🤖💥 AI Bugada – A IA mais confiante do mundo. E também a mais errada.
 
 ## 👥 Integrantes
 - Nome Completo 1 – Matrícula: XXXXXXX  
