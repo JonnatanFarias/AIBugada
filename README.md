@@ -138,9 +138,28 @@ Demonstrar o uso prático de modelos de linguagem (LLMs) em aplicações reais, 
 * Criatividade no desenvolvimento de software
 
 ---
+## 🖼️ Imagens do Projeto
+
+### 🎯 Interface Principal
+<img width="1867" height="821" alt="image" src="https://github.com/user-attachments/assets/7ba4e893-f4aa-4dcf-a1a4-b097f48251ac" />
+
+---
+
+### 🤖 Resposta da AI Bugada
+<img width="753" height="303" alt="image" src="https://github.com/user-attachments/assets/de010a8b-62d7-4f8b-aa83-006bbc4548ab" />
+
+---
+
+### ⚙️ Níveis de Bug
+<img width="763" height="386" alt="image" src="https://github.com/user-attachments/assets/31133d1a-64dc-4a93-b839-3a39b43a1d9c" />
+
+---
+
+### 💥 Exemplo de Resposta Caótica
+<img width="774" height="450" alt="image" src="https://github.com/user-attachments/assets/718bbb46-3a9f-4d8c-a07d-f3ba769ea39e" />
+
+---
 
 ## 💡 Observação
 
 Este projeto tem caráter educativo e experimental, com foco em explorar o comportamento de modelos de linguagem de forma criativa e controlada.
-
-```
