@@ -1,9 +1,9 @@
 # 🤖💥 AI Bugada – A IA mais confiante do mundo. E também a mais errada.
 
 ## 👥 Integrantes
-- Nome Completo 1 – Matrícula: XXXXXXX  
-- Nome Completo 2 – Matrícula: XXXXXXX  
-- Nome Completo 3 – Matrícula: XXXXXXX  
+- Jonnatan Silva de Farias (ADS - UNIFACISA)
+- Nome Completo 2 (ADS - UNIFACISA)
+- Nome Completo 3 
 
 ---
 
