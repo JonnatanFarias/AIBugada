@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 - Jonnatan Silva de Farias (ADS - UNIFACISA)
-- Nome Completo 2 (ADS - UNIFACISA)
+- Emanuel Silva Lira Brasil (ADS - UNIFACISA)
 - Nome Completo 3 
 
 ---
