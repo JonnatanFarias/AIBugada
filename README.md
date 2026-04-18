@@ -51,6 +51,12 @@ O sistema permite ao usuário:
 
 ### 🤖 1. Instalar e rodar o modelo (Ollama)
 
+instalação para Windows
+```bash
+irm https://ollama.com/install.ps1 | iex
+````
+
+modelo
 ```bash
 ollama pull llama3
 ````
@@ -59,6 +65,11 @@ ou (mais leve):
 
 ```bash
 ollama pull phi3
+```
+
+executar
+```bash
+ollama run llama3
 ```
 
 ---
